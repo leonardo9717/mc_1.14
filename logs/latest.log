@@ -1,48 +1,22 @@
-[22:27:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:27:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:27:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:27:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:27:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:27:53] [Server thread/INFO]: Starting minecraft server version 1.14
-[22:27:53] [Server thread/INFO]: Loading properties
-[22:27:53] [Server thread/INFO]: Default game type: SURVIVAL
-[22:27:53] [Server thread/INFO]: Generating keypair
-[22:27:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:27:53] [Server thread/INFO]: Using default channel type
-[22:27:54] [Server thread/INFO]: Preparing level "world"
-[22:27:54] [Server thread/INFO]: Reloading ResourceManager: Default
-[22:27:57] [Server thread/INFO]: Loaded 6 recipes
-[22:27:58] [Server thread/INFO]: Loaded 811 advancements
-[22:27:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:28:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[22:28:00] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[22:28:00] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[22:28:00] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[22:28:00] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[22:28:01] [Server-Worker-4/INFO]: Preparing spawn area: 2%
-[22:28:01] [Server-Worker-1/INFO]: Preparing spawn area: 55%
-[22:28:02] [Server-Worker-4/INFO]: Preparing spawn area: 90%
-[22:28:02] [Server-Worker-1/INFO]: Preparing spawn area: 91%
-[22:28:02] [Server thread/INFO]: Time elapsed: 4328 ms
-[22:28:02] [Server thread/INFO]: Done (8.101s)! For help, type "help"
-[22:31:57] [User Authenticator #1/INFO]: UUID of player Sojas is b13ac379-b01d-4293-a2c8-c736e42d48a8
-[22:31:57] [Server thread/INFO]: Sojas[/148.71.66.120:61909] logged in with entity id 152 at (-98.5, 71.0, 23.5)
-[22:31:57] [Server thread/INFO]: Sojas joined the game
-[22:32:27] [Server thread/INFO]: Sojas lost connection: Disconnected
-[22:32:27] [Server thread/INFO]: Sojas left the game
-[22:37:45] [Server thread/INFO]: Stopping the server
-[22:37:45] [Server thread/INFO]: Stopping server
-[22:37:45] [Server thread/INFO]: Saving players
-[22:37:45] [Server thread/INFO]: Saving worlds
-[22:37:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:37:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:37:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:37:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:37:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:37:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:37:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:37:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:37:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:37:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:37:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:37:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:10:49] [Server thread/INFO]: Conqueror224 lost connection: Disconnected
+[00:10:49] [Server thread/INFO]: Conqueror224 left the game
+[00:19:01] [Server thread/INFO]: Sojas lost connection: Disconnected
+[00:19:01] [Server thread/INFO]: Sojas left the game
+[00:19:28] [Server thread/INFO]: Unknown command
+[00:19:28] [Server thread/INFO]: save.all<--[HERE]
+[00:19:33] [Server thread/INFO]: Unknown command
+[00:19:33] [Server thread/INFO]: save/all<--[HERE]
+[00:19:41] [Server thread/INFO]: Saving the game (this may take a moment!)
+[00:19:41] [Server thread/INFO]: Saved the game
+[00:36:12] [Server thread/INFO]: dSyyync has made the advancement [Sweet Dreams]
+[00:39:13] [User Authenticator #12/INFO]: UUID of player Sojas is b13ac379-b01d-4293-a2c8-c736e42d48a8
+[00:38:53] [User Authenticator #11/INFO]: UUID of player dSyyync is 6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b
+[00:38:43] [User Authenticator #10/INFO]: UUID of player dSyyync is 6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b
+[00:37:58] [User Authenticator #9/INFO]: UUID of player dSyyync is 6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b
+[00:37:03] [User Authenticator #8/INFO]: UUID of player dSyyync is 6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b
+[00:37:12] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[00:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 187956ms or 3759 ticks behind
+[00:39:20] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[00:39:21] [Server thread/INFO]: dSyyync lost connection: Disconnected
+[00:39:21] [Server thread/INFO]: dSyyync left the game
+[00:39:21] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\leonardo\Desktop\mc_1.14\.\crash-reports\crash-2019-04-26_00.39.21-server.txt

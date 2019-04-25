@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "7e9b14a9-2d48-4aff-b7ee-5dcf3757cafb",
+    "name": "Conqueror224",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b",
+    "name": "dSyyync",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b13ac379-b01d-4293-a2c8-c736e42d48a8",
+    "name": "Sojas",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
