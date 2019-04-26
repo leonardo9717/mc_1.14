@@ -1,22 +1,140 @@
-[00:10:49] [Server thread/INFO]: Conqueror224 lost connection: Disconnected
-[00:10:49] [Server thread/INFO]: Conqueror224 left the game
-[00:19:01] [Server thread/INFO]: Sojas lost connection: Disconnected
-[00:19:01] [Server thread/INFO]: Sojas left the game
-[00:19:28] [Server thread/INFO]: Unknown command
-[00:19:28] [Server thread/INFO]: save.all<--[HERE]
-[00:19:33] [Server thread/INFO]: Unknown command
-[00:19:33] [Server thread/INFO]: save/all<--[HERE]
-[00:19:41] [Server thread/INFO]: Saving the game (this may take a moment!)
-[00:19:41] [Server thread/INFO]: Saved the game
-[00:36:12] [Server thread/INFO]: dSyyync has made the advancement [Sweet Dreams]
-[00:39:13] [User Authenticator #12/INFO]: UUID of player Sojas is b13ac379-b01d-4293-a2c8-c736e42d48a8
-[00:38:53] [User Authenticator #11/INFO]: UUID of player dSyyync is 6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b
-[00:38:43] [User Authenticator #10/INFO]: UUID of player dSyyync is 6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b
-[00:37:58] [User Authenticator #9/INFO]: UUID of player dSyyync is 6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b
-[00:37:03] [User Authenticator #8/INFO]: UUID of player dSyyync is 6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b
-[00:37:12] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[00:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 187956ms or 3759 ticks behind
-[00:39:20] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[00:39:21] [Server thread/INFO]: dSyyync lost connection: Disconnected
-[00:39:21] [Server thread/INFO]: dSyyync left the game
-[00:39:21] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\leonardo\Desktop\mc_1.14\.\crash-reports\crash-2019-04-26_00.39.21-server.txt
+[13:47:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:47:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:47:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:47:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:47:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:47:35] [Server thread/INFO]: Starting minecraft server version 1.14
+[13:47:35] [Server thread/INFO]: Loading properties
+[13:47:35] [Server thread/INFO]: Default game type: SURVIVAL
+[13:47:35] [Server thread/INFO]: Generating keypair
+[13:47:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:47:36] [Server thread/INFO]: Using default channel type
+[13:47:37] [Server thread/INFO]: Preparing level "world"
+[13:47:38] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:47:39] [Server thread/INFO]: Loaded 6 recipes
+[13:47:40] [Server thread/INFO]: Loaded 811 advancements
+[13:47:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:47:41] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:47:41] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[13:47:42] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[13:47:42] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[13:47:43] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[13:47:43] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[13:47:45] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:47:45] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[13:47:45] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:47:45] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[13:47:46] [Server-Worker-1/INFO]: Preparing spawn area: 45%
+[13:47:46] [Server thread/INFO]: Time elapsed: 5313 ms
+[13:47:46] [Server thread/INFO]: Done (8.560s)! For help, type "help"
+[14:17:48] [User Authenticator #1/INFO]: UUID of player Sojas is b13ac379-b01d-4293-a2c8-c736e42d48a8
+[14:17:48] [Server thread/INFO]: Sojas[/148.71.66.120:65279] logged in with entity id 229 at (671.8536407415316, 11.0, 696.3358480163055)
+[14:17:48] [Server thread/INFO]: Sojas joined the game
+[14:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[14:18:18] [User Authenticator #2/INFO]: UUID of player dSyyync is 6e4cf99c-b1bf-46b0-ab63-7ed6042d1d1b
+[14:18:18] [Server thread/INFO]: dSyyync[/2.80.241.152:63510] logged in with entity id 883 at (562.3000000119209, 63.0000002, 713.299999974668)
+[14:18:18] [Server thread/INFO]: dSyyync joined the game
+[14:50:28] [Server thread/INFO]: dSyyync has made the advancement [Diamonds!]
+[14:52:37] [User Authenticator #3/INFO]: UUID of player Conqueror224 is 7e9b14a9-2d48-4aff-b7ee-5dcf3757cafb
+[14:52:37] [Server thread/INFO]: Conqueror224[/2.80.241.152:54483] logged in with entity id 48028 at (603.3000000119209, 62.0, 698.6999999880791)
+[14:52:37] [Server thread/INFO]: Conqueror224 joined the game
+[14:55:22] [Server thread/INFO]: <dSyyync> 573 64 695
+[14:57:25] [Server thread/INFO]: dSyyync has made the advancement [Ice Bucket Challenge]
+[14:58:46] [Server thread/INFO]: [Sojas: Teleported Sojas to 572.5, 31.0, 760.5]
+[14:59:15] [Server thread/INFO]: Conqueror224 has made the advancement [The Parrots and the Bats]
+[14:59:49] [Server thread/INFO]: dSyyync has made the advancement [Enchanter]
+[15:04:11] [Server thread/INFO]: [Sojas: Teleported Sojas to 572.5, 31.0, 760.5]
+[15:04:17] [Server thread/INFO]: [Sojas: Teleported Sojas to 573.5, 64.0, 695.5]
+[15:04:17] [Server thread/WARN]: Sojas moved too quickly! 1.0,34.0,-65.0
+[15:04:36] [Server thread/INFO]: [Sojas: Teleported Sojas to 572.5, 31.0, 760.5]
+[15:04:36] [Server thread/WARN]: Sojas moved too quickly! -9.142426300146667,-32.0,71.67791427221493
+[15:04:36] [Server thread/WARN]: Sojas moved too quickly! -9.142426300146667,-32.0,71.67791427221493
+[15:04:36] [Server thread/WARN]: Sojas moved too quickly! -9.142426300146667,-32.0,71.67791427221493
+[15:04:36] [Server thread/WARN]: Sojas moved too quickly! -9.142426300146667,-32.0,71.67791427221493
+[15:04:46] [Server thread/INFO]: [Sojas: Teleported Sojas to 573.5, 64.0, 695.5]
+[15:04:46] [Server thread/WARN]: Sojas moved too quickly! 0.8454107952310324,34.0,-65.1423410959942
+[15:04:46] [Server thread/WARN]: Sojas moved too quickly! 0.8454107952310324,34.0,-65.1423410959942
+[15:04:46] [Server thread/WARN]: Sojas moved too quickly! 0.8454107952310324,34.0,-65.1423410959942
+[15:04:46] [Server thread/WARN]: Sojas moved too quickly! 0.8454107952310324,34.0,-65.1423410959942
+[15:05:30] [Server thread/INFO]: Conqueror224 has made the advancement [A Seedy Place]
+[15:06:42] [Server thread/WARN]: Fetching addPacket for removed entity
+[15:06:42] [Server thread/WARN]: Fetching addPacket for removed entity
+[15:12:47] [Server thread/INFO]: [dSyyync: Teleported dSyyync to Sojas]
+[15:12:47] [Server thread/WARN]: dSyyync moved too quickly! 558.1424303457082,16.92159999847412,396.1404140762635
+[15:12:51] [Server thread/WARN]: Sojas moved too quickly! 2.9613804655043623,-3.203264399331289,-9.23253128238889
+[15:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
+[15:13:36] [Server thread/INFO]: [dSyyync: Teleported dSyyync to Sojas]
+[15:13:36] [Server thread/WARN]: dSyyync moved too quickly! 39.63643679608526,-13.0,-10.099816574974966
+[15:14:44] [Server thread/INFO]: dSyyync has made the advancement [The Parrots and the Bats]
+[15:17:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[15:18:12] [Server thread/INFO]: [Sojas: Teleported Sojas to 1170.5, 70.0, 1084.5]
+[15:18:41] [Server thread/INFO]: [dSyyync: Teleported Conqueror224 to dSyyync]
+[15:18:41] [Server thread/WARN]: Conqueror224 moved too quickly! 594.1229963301943,12.0,337.29738570689847
+[15:19:37] [Server thread/INFO]: [Sojas: Teleported Sojas to 573.5, 64.0, 695.5]
+[15:19:37] [Server thread/WARN]: Sojas moved too quickly! -567.881939112347,-7.0,-260.763011449279
+[15:19:37] [Server thread/WARN]: Sojas moved too quickly! -567.881939112347,-7.0,-260.763011449279
+[15:19:37] [Server thread/WARN]: Sojas moved too quickly! -567.881939112347,-7.0,-260.763011449279
+[15:19:37] [Server thread/WARN]: Sojas moved too quickly! -567.881939112347,-7.0,-260.763011449279
+[15:20:04] [Server thread/INFO]: [Sojas: Teleported Sojas to 573.5, 64.0, 695.5]
+[15:20:04] [Server thread/WARN]: Sojas moved too quickly! -88.6651649546186,53.0,-3.4400724230697506
+[15:20:04] [Server thread/WARN]: Sojas moved too quickly! -88.6651649546186,53.0,-3.4400724230697506
+[15:22:24] [Server thread/INFO]: [Sojas: Teleported Sojas to 1170.5, 70.0, 1084.5]
+[15:22:24] [Server thread/WARN]: Sojas moved too quickly! 593.9649794494479,7.0,399.7430076974433
+[15:22:24] [Server thread/WARN]: Sojas moved too quickly! 593.9649794494479,7.0,399.7430076974433
+[15:22:24] [Server thread/WARN]: Sojas moved too quickly! 593.9649794494479,7.0,399.7430076974433
+[15:22:34] [Server thread/INFO]: [dSyyync: Teleported dSyyync to 573.5, 64.0, 695.5]
+[15:23:21] [Server thread/INFO]: [Sojas: Teleported Sojas to 572.5, 31.0, 760.5]
+[15:24:20] [Server thread/INFO]: Sojas has made the advancement [Ol' Betsy]
+[15:24:54] [Server thread/INFO]: [Sojas: Teleported Sojas to 1170.5, 70.0, 1084.5]
+[15:24:54] [Server thread/WARN]: Sojas moved too quickly! 596.1974984615935,41.0,324.8182114605871
+[15:24:54] [Server thread/WARN]: Sojas moved too quickly! 596.1974984615935,41.0,324.8182114605871
+[15:24:54] [Server thread/WARN]: Sojas moved too quickly! 596.1974984615935,41.0,324.8182114605871
+[15:24:54] [Server thread/WARN]: Sojas moved too quickly! 596.1974984615935,41.0,324.8182114605871
+[15:26:02] [Server thread/INFO]: Conqueror224 lost connection: Disconnected
+[15:26:02] [Server thread/INFO]: Conqueror224 left the game
+[15:26:18] [Server thread/INFO]: [Sojas: Teleported Sojas to 572.5, 31.0, 760.5]
+[15:26:18] [Server thread/WARN]: Sojas moved too quickly! -634.190867331853,-36.0,-297.065085813736
+[15:26:22] [Server thread/INFO]: [Sojas: Teleported Sojas to 1170.5, 70.0, 1084.5]
+[15:26:34] [Server thread/INFO]: [Sojas: Teleported Sojas to 1170.5, 71.0, 1084.5]
+[15:27:51] [Server thread/INFO]: [dSyyync: Set the time to 1000]
+[15:27:54] [Server thread/INFO]: [dSyyync: Set the time to 0]
+[15:27:59] [Server thread/INFO]: Sojas has made the advancement [Take Aim]
+[15:28:11] [Server thread/INFO]: [dSyyync: Teleported dSyyync to Sojas]
+[15:28:11] [Server thread/WARN]: dSyyync moved too quickly! 568.2588037339405,11.0,365.82956073061837
+[15:29:31] [Server thread/INFO]: [dSyyync: Teleported dSyyync to 573.5, 64.0, 695.5]
+[15:30:56] [Server thread/INFO]: [dSyyync: Teleported dSyyync to Sojas]
+[15:30:56] [Server thread/WARN]: dSyyync moved too quickly! 749.3081637978275,52.0,324.84665112719574
+[15:31:18] [Server thread/INFO]: [dSyyync: Teleported dSyyync to 1170.5, 71.0, 1084.5]
+[15:31:18] [Server thread/WARN]: dSyyync moved too quickly! -234.2652053504512,7.0,61.732162275617156
+[15:32:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[15:33:36] [Server thread/INFO]: [dSyyync: Teleported dSyyync to 572.5, 31.0, 760.5]
+[15:33:36] [Server thread/WARN]: dSyyync moved too quickly! -573.6013346861475,-44.0,-287.57164052719645
+[15:34:09] [Server thread/INFO]: [dSyyync: Teleported dSyyync to 1170.5, 71.0, 1084.5]
+[15:35:24] [Server thread/INFO]: Sojas lost connection: Disconnected
+[15:35:24] [Server thread/INFO]: Sojas left the game
+[15:35:34] [Server thread/INFO]: Unknown command
+[15:35:34] [Server thread/INFO]: save-al<--[HERE]
+[15:35:36] [Server thread/INFO]: Saving the game (this may take a moment!)
+[15:35:37] [Server thread/INFO]: Saved the game
+[15:39:02] [Server thread/INFO]: [dSyyync: Set the time to 0]
+[15:39:50] [Server thread/INFO]: [Server] cona
+[15:39:55] [Server thread/INFO]: <dSyyync> :P
+[15:50:05] [Server thread/INFO]: [dSyyync: Set the time to 0]
+[15:55:36] [Server thread/INFO]: dSyyync lost connection: Disconnected
+[15:55:36] [Server thread/INFO]: dSyyync left the game
+[16:17:40] [Server thread/INFO]: Stopping the server
+[16:17:40] [Server thread/INFO]: Stopping server
+[16:17:40] [Server thread/INFO]: Saving players
+[16:17:40] [Server thread/INFO]: Saving worlds
+[16:17:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:17:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:17:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:17:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:17:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:17:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:17:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:17:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:17:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:17:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:17:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:17:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
