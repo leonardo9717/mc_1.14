@@ -1,4 +1,8 @@
 casa /tp 573 64 695
 casa neve /tp 1143 76 1051
-zombies /tp 572 31 760
+zombies /tp 572 31 750
 jungle /tp 1699 79 -1891
+deserto /tp 2576 71 -1461
+
+##NETHER##
+spawn /tp 230 58 -236
