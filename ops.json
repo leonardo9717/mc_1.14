@@ -16,5 +16,11 @@
     "name": "Sojas",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9551d4a1-868e-43d7-8081-814cfa07bf35",
+    "name": "kratezo",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

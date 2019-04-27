@@ -3,6 +3,14 @@ casa neve /tp 1143 76 1051
 zombies /tp 572 31 750
 jungle /tp 1699 79 -1891
 deserto /tp 2576 71 -1461
+dark oak /tp 1099 65 -2131
+badlands /tp 647 75 -1300
+
+ender /tp 606 37 -1621
 
 ##NETHER##
 spawn /tp 230 58 -236
+
+
+
+o da vila /tp 1212 77 -1524
