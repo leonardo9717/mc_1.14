@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-04-28 21:06:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2019-04-26 15:33:27 +0100"
@@ -296,6 +302,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2019-04-27 21:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-04-28 20:23:52 +0100"
     },
     "done": true
   },
@@ -392,6 +404,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-04-27 21:47:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-04-28 21:06:59 +0100"
     },
     "done": true
   },
@@ -1921,6 +1939,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2019-04-25 23:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-04-28 20:23:52 +0100"
     },
     "done": true
   },

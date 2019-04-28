@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2019-04-28 21:13:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-04-25 22:59:03 +0100"
@@ -600,9 +606,12 @@
     "criteria": {
       "minecraft:blaze": "2019-04-27 21:54:00 +0100",
       "minecraft:skeleton": "2019-04-25 23:19:59 +0100",
+      "minecraft:ghast": "2019-04-28 21:09:31 +0100",
+      "minecraft:magma_cube": "2019-04-28 21:13:34 +0100",
       "minecraft:spider": "2019-04-25 23:15:25 +0100",
       "minecraft:creeper": "2019-04-25 23:03:03 +0100",
       "minecraft:phantom": "2019-04-27 16:43:39 +0100",
+      "minecraft:wither_skeleton": "2019-04-28 21:10:57 +0100",
       "minecraft:zombie": "2019-04-25 23:16:28 +0100",
       "minecraft:drowned": "2019-04-25 23:36:40 +0100"
     },
@@ -1850,6 +1859,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2019-04-28 21:11:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-04-26 14:27:45 +0100"
@@ -2529,6 +2544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2019-04-28 21:11:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-04-25 22:56:11 +0100"
@@ -2664,6 +2685,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-04-25 23:11:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-04-28 20:08:54 +0100"
     },
     "done": true
   },
