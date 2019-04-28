@@ -1,4 +1,4 @@
-casa /tp 573 64 695
+casa sojas /tp 1685 85 -1906
 casa neve /tp 1143 76 1051
 zombies /tp 572 31 750
 jungle /tp 1699 79 -1891
