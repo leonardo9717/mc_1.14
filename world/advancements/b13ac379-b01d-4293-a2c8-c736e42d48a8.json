@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2019-04-30 02:34:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-04-25 23:03:57 +0100"
@@ -647,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-04-30 02:32:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-04-25 23:03:58 +0100"
@@ -672,6 +684,8 @@
       "minecraft:phantom": "2019-04-26 20:23:04 +0100",
       "minecraft:witch": "2019-04-25 23:42:58 +0100",
       "minecraft:stray": "2019-04-26 15:12:39 +0100",
+      "minecraft:enderman": "2019-04-30 02:32:31 +0100",
+      "minecraft:silverfish": "2019-04-30 02:30:16 +0100",
       "minecraft:zombie": "2019-04-25 23:15:53 +0100",
       "minecraft:drowned": "2019-04-27 19:08:02 +0100",
       "minecraft:zombie_villager": "2019-04-26 19:07:25 +0100"
@@ -898,6 +912,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2019-04-27 15:22:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-04-30 02:32:01 +0100"
     },
     "done": true
   },
@@ -1515,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2019-04-30 01:48:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2019-04-25 23:10:04 +0100"
@@ -1659,6 +1685,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2019-04-30 00:49:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-04-25 23:14:23 +0100"
@@ -1764,6 +1796,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-04-27 17:38:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-04-30 02:32:11 +0100"
     },
     "done": true
   },
@@ -2582,6 +2620,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-04-30 02:32:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-04-30 02:32:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-04-25 23:15:50 +0100"
@@ -2663,6 +2713,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-04-26 00:11:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2019-04-30 01:48:41 +0100"
     },
     "done": true
   },
@@ -2858,6 +2914,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-04-30 02:38:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_logs": "2019-04-25 23:37:11 +0100"
@@ -2984,6 +3046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-04-30 02:32:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-04-25 23:12:36 +0100"
@@ -3029,6 +3097,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-04-27 17:38:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-04-30 02:32:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2019-04-30 02:32:11 +0100"
     },
     "done": true
   },
