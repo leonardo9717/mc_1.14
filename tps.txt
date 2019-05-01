@@ -20,11 +20,3 @@ portal /tp 720 64 1049
 
 
 o da vila /tp 1212 77 -1524
-
-
-/give Sojas diamond_pickaxe{Unbreakable:1,Enchantments:[{id:efficiency,lvl:1000},{id:fortune,lvl:1000}]} 1
-/give Sojas minecraft:diamond_leggings{Unbreakable:1,Enchantments:[{id:protection,lvl:100000},{id:thorns,lvl:100000},{id:fire_protection,lvl:100000},{id:blast_protection,lvl:100000},{id:projectile_protection,lvl:100000}]}
-/give Sojas diamond_boots{Unbreakable:1,Enchantments:[{id:protection,lvl:100000},{id:feather_falling,lvl:100000},{id:depth_strider,lvl:100000},{id:fire_protection,lvl:100000}]}
-/give Sojas diamond_helmet{Unbreakable:1,Enchantments:[{id:protection,lvl:100000},{id:respiration,lvl:100000},{id:aqua_affinity,lvl:100000},{id:fire_protection,lvl:100000},{id:blast_protection,lvl:100000}]}
-/give Sojas bow{Unbreakable:1,Enchantments:[{id:power,lvl:100000},{id:infinity,lvl:1},{id:flame,lvl:10000}]}
-/give Sojas golden_sword{Unbreakable:1,Enchantments:[{id:sharpness,lvl:100000},{id:smite,lvl:100000},{id:looting,lvl:10},{id:fire_aspect,lvl:10000}]}
