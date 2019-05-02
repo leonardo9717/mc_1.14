@@ -16,7 +16,10 @@ water temple /tp -25913 62 544
 spawn /tp 230 58 -236
 
 ##ENDCITY##
-portal /tp 720 64 1049
+portal /tp -354 69 -1100
 
 
 o da vila /tp 1212 77 -1524
+
+
+cavai /summon minecraft:horse ~ ~ ~ {Type:0,Variant:6,Attributes:[{Name:generic.maxHealth,Base:40},{Name:generic.movementSpeed,Base:.300},{Name:horse.jumpStrength,Base:1}]}

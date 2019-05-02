@@ -997,6 +997,7 @@
       "minecraft:creeper": "2019-04-29 19:36:52 +0100",
       "minecraft:witch": "2019-04-27 23:19:10 +0100",
       "minecraft:wither_skeleton": "2019-04-29 23:23:40 +0100",
+      "minecraft:shulker": "2019-05-01 15:22:02 +0100",
       "minecraft:silverfish": "2019-04-27 23:17:56 +0100",
       "minecraft:stray": "2019-04-29 20:04:09 +0100",
       "minecraft:enderman": "2019-04-30 02:35:01 +0100",
@@ -1653,6 +1654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-05-01 15:22:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-04-27 22:25:21 +0100"
@@ -1758,6 +1765,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-04-27 23:10:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-05-01 15:16:57 +0100"
     },
     "done": true
   },
@@ -2027,6 +2040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2019-05-01 14:51:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2019-04-27 20:28:35 +0100"
@@ -2204,6 +2223,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2019-04-30 00:51:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2019-05-01 15:09:56 +0100"
     },
     "done": true
   },
