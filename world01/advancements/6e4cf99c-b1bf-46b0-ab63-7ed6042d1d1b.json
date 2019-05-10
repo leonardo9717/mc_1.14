@@ -696,6 +696,7 @@
       "minecraft:spider": "2019-05-03 14:21:19 +0100",
       "minecraft:creeper": "2019-05-03 14:50:58 +0100",
       "minecraft:slime": "2019-05-03 18:02:18 +0100",
+      "minecraft:evoker": "2019-05-08 22:51:29 +0100",
       "minecraft:phantom": "2019-05-04 16:49:12 +0100",
       "minecraft:witch": "2019-05-03 17:55:43 +0100",
       "minecraft:wither_skeleton": "2019-05-03 22:39:27 +0100",
@@ -2528,6 +2529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-05-08 21:56:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-02 23:46:54 +0100"
@@ -2567,6 +2574,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-05-02 23:30:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-05-08 21:56:34 +0100"
     },
     "done": true
   },
