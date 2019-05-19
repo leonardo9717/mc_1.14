@@ -923,13 +923,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-05-03 00:00:52 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-05-03 00:00:52 +0100"
     },
@@ -1743,8 +1743,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-05-02 23:39:13 +0100",
       "minecraft:mountains": "2019-05-03 01:52:14 +0100",
+      "minecraft:forest": "2019-05-02 23:39:13 +0100",
       "minecraft:taiga": "2019-05-03 00:28:22 +0100",
       "minecraft:taiga_hills": "2019-05-03 01:47:33 +0100",
       "minecraft:birch_forest": "2019-05-03 15:47:37 +0100",
@@ -2081,5 +2081,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1957
 }
