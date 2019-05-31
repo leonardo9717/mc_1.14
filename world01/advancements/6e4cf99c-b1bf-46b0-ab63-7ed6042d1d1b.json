@@ -784,8 +784,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2019-05-03 22:38:41 +0100",
       "minecraft:pillager": "2019-05-03 17:22:32 +0100",
+      "minecraft:blaze": "2019-05-03 22:38:41 +0100",
       "minecraft:skeleton": "2019-05-03 14:20:52 +0100",
       "minecraft:zombie_pigman": "2019-05-18 14:54:23 +0100",
       "minecraft:ravager": "2019-05-03 18:12:09 +0100",
@@ -795,15 +795,15 @@
       "minecraft:magma_cube": "2019-05-18 14:10:20 +0100",
       "minecraft:spider": "2019-05-03 14:21:19 +0100",
       "minecraft:creeper": "2019-05-03 14:50:58 +0100",
-      "minecraft:evoker": "2019-05-08 22:51:29 +0100",
       "minecraft:slime": "2019-05-03 18:02:18 +0100",
+      "minecraft:evoker": "2019-05-08 22:51:29 +0100",
       "minecraft:phantom": "2019-05-04 16:49:12 +0100",
       "minecraft:witch": "2019-05-03 17:55:43 +0100",
       "minecraft:wither_skeleton": "2019-05-03 22:39:27 +0100",
       "minecraft:husk": "2019-05-03 18:05:51 +0100",
       "minecraft:cave_spider": "2019-05-04 22:00:09 +0100",
-      "minecraft:enderman": "2019-05-04 21:22:46 +0100",
       "minecraft:silverfish": "2019-05-20 21:40:53 +0100",
+      "minecraft:enderman": "2019-05-04 21:22:46 +0100",
       "minecraft:zombie": "2019-05-03 01:18:54 +0100",
       "minecraft:drowned": "2019-05-03 15:36:17 +0100",
       "minecraft:zombie_villager": "2019-05-03 17:59:49 +0100"
@@ -831,6 +831,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-05-03 00:01:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2019-05-28 00:07:05 +0100"
     },
     "done": true
   },
@@ -951,6 +957,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2019-05-03 13:24:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2019-05-28 00:07:05 +0100"
     },
     "done": true
   },
@@ -1550,10 +1562,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-03 21:13:40 +0100",
       "minecraft:cold_ocean": "2019-05-03 14:55:26 +0100",
-      "minecraft:mountains": "2019-05-03 15:54:42 +0100",
+      "minecraft:jungle_edge": "2019-05-03 21:13:40 +0100",
       "minecraft:forest": "2019-05-02 23:28:38 +0100",
+      "minecraft:mountains": "2019-05-03 15:54:42 +0100",
       "minecraft:taiga": "2019-05-02 23:32:43 +0100",
       "minecraft:desert_hills": "2019-05-03 14:49:24 +0100",
       "minecraft:deep_cold_ocean": "2019-05-05 22:18:52 +0100",
@@ -1569,8 +1581,8 @@
       "minecraft:savanna_plateau": "2019-05-07 22:10:11 +0100",
       "minecraft:beach": "2019-05-02 23:30:35 +0100",
       "minecraft:dark_forest": "2019-05-03 15:07:08 +0100",
-      "minecraft:lukewarm_ocean": "2019-05-03 15:08:00 +0100",
       "minecraft:river": "2019-05-02 23:28:35 +0100",
+      "minecraft:lukewarm_ocean": "2019-05-03 15:08:00 +0100",
       "minecraft:birch_forest_hills": "2019-05-05 22:55:46 +0100",
       "minecraft:wooded_mountains": "2019-05-03 15:54:51 +0100",
       "minecraft:wooded_hills": "2019-05-02 23:43:30 +0100",
@@ -1612,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2019-05-28 22:56:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2019-05-02 23:28:49 +0100"
@@ -1645,6 +1663,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2019-05-02 23:31:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2019-05-28 22:50:29 +0100"
     },
     "done": true
   },
@@ -1774,6 +1798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2019-05-28 00:07:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-05-03 17:26:05 +0100"
@@ -1832,6 +1862,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2019-05-03 22:34:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2019-05-28 22:52:37 +0100"
     },
     "done": true
   },
@@ -2703,6 +2739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2019-05-28 22:52:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-05-02 23:36:55 +0100"
@@ -2970,6 +3012,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-05-03 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2019-05-28 22:50:29 +0100"
     },
     "done": true
   },
@@ -3288,6 +3336,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-05-04 19:03:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2019-05-28 22:56:30 +0100"
     },
     "done": true
   },
@@ -3795,5 +3849,5 @@
     },
     "done": true
   },
-  "DataVersion": 1957
+  "DataVersion": 1963
 }
