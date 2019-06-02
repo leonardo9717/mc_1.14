@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-06-01 19:03:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2019-05-03 14:56:12 +0100"
@@ -272,6 +278,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-05-02 23:28:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-06-02 02:23:56 +0100"
     },
     "done": true
   },
@@ -1314,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-06-01 19:50:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2019-05-18 20:32:00 +0100"
@@ -1335,6 +1353,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-05-03 14:21:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2019-06-01 18:39:58 +0100"
     },
     "done": true
   },
@@ -1765,6 +1789,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-03 16:53:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-05-31 22:04:57 +0100"
     },
     "done": true
   },
@@ -2238,6 +2268,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2019-06-01 18:26:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2019-05-06 22:19:06 +0100"
@@ -2278,7 +2314,8 @@
       "bread": "2019-05-02 23:38:01 +0100",
       "golden_apple": "2019-05-04 02:38:39 +0100",
       "golden_carrot": "2019-05-05 23:40:19 +0100",
-      "cooked_chicken": "2019-05-03 23:51:23 +0100"
+      "cooked_chicken": "2019-05-03 23:51:23 +0100",
+      "cod": "2019-06-01 00:02:29 +0100"
     },
     "done": false
   },
@@ -2530,6 +2567,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2019-06-01 02:19:04 +0100",
       "minecraft:cow": "2019-05-03 13:46:22 +0100",
       "minecraft:horse": "2019-05-03 19:07:37 +0100"
     },
@@ -2580,6 +2618,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2019-05-02 23:44:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-06-01 18:40:29 +0100"
     },
     "done": true
   },
@@ -2790,6 +2834,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-05-03 16:15:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-06-01 19:50:40 +0100"
     },
     "done": true
   },
@@ -3135,6 +3185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-05-31 22:04:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2019-05-03 22:34:03 +0100"
@@ -3210,6 +3266,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2019-05-03 00:16:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2019-05-31 20:02:01 +0100"
     },
     "done": true
   },
@@ -3734,6 +3796,15 @@
       "has_stone": "2019-05-03 00:46:10 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/tabby.png": "2019-06-01 20:33:42 +0100",
+      "textures/entity/cat/siamese.png": "2019-06-01 20:34:56 +0100",
+      "textures/entity/cat/ragdoll.png": "2019-06-01 20:35:34 +0100",
+      "textures/entity/cat/british_shorthair.png": "2019-06-01 00:51:15 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
