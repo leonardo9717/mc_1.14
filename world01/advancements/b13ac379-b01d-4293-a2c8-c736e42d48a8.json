@@ -1215,6 +1215,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2019-06-03 22:19:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2019-05-21 15:08:05 +0100"
@@ -2258,6 +2264,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2019-06-03 22:24:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-05-02 23:26:24 +0100"
@@ -2658,6 +2670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-06-04 00:47:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2019-05-03 23:44:26 +0100"
@@ -2907,6 +2925,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_at_least_9_packed_ice": "2019-05-05 23:26:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2019-06-04 00:58:45 +0100"
     },
     "done": true
   },
@@ -3603,6 +3627,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2019-05-03 22:46:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-06-04 00:58:24 +0100"
     },
     "done": true
   },
