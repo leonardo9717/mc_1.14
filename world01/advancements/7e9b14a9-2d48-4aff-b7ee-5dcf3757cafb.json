@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2019-06-25 17:37:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-05-19 22:06:50 +0100"
@@ -67,5 +73,5 @@
     },
     "done": true
   },
-  "DataVersion": 1957
+  "DataVersion": 1963
 }
